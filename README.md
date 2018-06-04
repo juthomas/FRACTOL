@@ -1,7 +1,7 @@
 FRACTOL: Fractal Visualiser
 --------------------------------------------------------------------------------------------------
 
-Burning Ship;
+Burning Ship:
 ![alt text](https://github.com/juthomas/FRACTOL/blob/master/.img/Burning_ship.png)
 
 Mandelbrot:
