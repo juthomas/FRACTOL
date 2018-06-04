@@ -1,4 +1,4 @@
-FRACTOL fractal visualiser
+FRACTOL: Fractal Visualiser
 --------------------------------------------------------------------------------------------------
 
 Burning Ship;
